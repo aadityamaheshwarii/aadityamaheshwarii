@@ -1,5 +1,21 @@
 # 💫 About Me:
-I’m Aaditya Maheshwari, an Electrical Engineering student at the National Institute of Technology Raipur, passionate about building technology-driven solutions with real-world impact.<br><br>My journey includes founding BIOH, a marketing agency, and Helpmate, an NGO that served over 3,000 children. I’ve published research, contributed to startups, and earned recognitions such as the Ashoka University Full Ride, Aditya Birla Scholar, and Tata Cummins Scholar.<br><br>Currently, I’m developing AromaxAI, an AI-powered scent personalization platform, combining engineering, design, and innovation to create meaningful user experiences.
+Electrical Engineering @ NIT Raipur | AI Builder
+
+• Published Researcher @17
+• Founder, AromaxAI.com
+• Computer Vision & Multimodal AI
+• Embedded Systems & IoT
+• Startup Operator | Built products from idea to prototype
+• Building robotics hardware with AI integration 
+
+Impact Metrics
+
+• 3+ Startup Internships | major- FamPay, TuteDude, and AppOpener.
+• ₹4L+ Business Revenue Generated (Co-founded BIOH)
+• 3,000+ Children Supported Through NGO as a director 
+
+
+Experience in AI workflows, multimodal systems, automation, prompt engineering, and product prototyping.
 
 
 ## 🌐 Socials:
